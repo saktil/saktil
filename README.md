@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Leo Saragib
+- 👋 Hi, I’m Leo Saragih
 - 👀 I’m interested in DevOps 
 - 🌱 I’m currently learning CI/CD 
 - 💞️ I’m looking to collaborate on ...
